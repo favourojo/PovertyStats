@@ -1,0 +1,25 @@
+---
+name: cmpsc-301-Fall-2021-finalProject
+break: true
+indent: 4
+---
+
+# --> check the technical writing
+writing/proposal.md:
+    ConfirmFileExists
+    MatchFileFragment --fragment Hailey, Favour, Kyrie, Mariah --count 0 --exact
+    MatchFileFragment --fragment --count 0 --exact
+
+writing/report.md:
+    ConfirmFileExists
+    MatchFileFragment --fragment Hailey, Mariah, Kyrie, Favour --count 0 --exact
+    MatchFileFragment --fragment  --count 0 --exact
+
+src/analysis.r:
+    ConfirmFileExists
+    MatchFileFragment --fragment Hailey, Kyrie, Mariah, Favour --count 0 --exact
+    MatchFileFragment --fragment    --count 0 --exact 
+
+
+# --> check the number of commits beyond a threshold
+CountCommits --count 3

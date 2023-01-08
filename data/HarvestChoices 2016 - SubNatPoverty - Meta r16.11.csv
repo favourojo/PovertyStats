@@ -1,0 +1,87 @@
+Codebook of poverty dataset (r16.11),,,,,
+,,,,,
+varCode,varLabel,unit,cat1,cat2,cat3
+ISO3,3-letter country code,class,,,
+country,country name,class,,,
+year,survey year,year,,,
+svyCode,survey code,class,,,
+svyL1Cd,code of admin unit (used in survey),class,,,
+svyL1Nm,label of admin unit (used in survey),class,,,
+prttyNm,label of admin unit,class,,,
+lastYear,last available survey year?,class,,,
+rn,shape id,class,,,
+MPOV08_PT190,poverty headcount ratio '11 PPP $1.90/day - male,percent,Demographics,Income and Poverty,Male
+FPOV08_PT190,poverty headcount ratio '11 PPP $1.90/day - female,percent,Demographics,Income and Poverty,Female
+MPOV08_PT310,poverty headcount ratio '11 PPP $3.10/day - male,percent,Demographics,Income and Poverty,Male
+FPOV08_PT310,poverty headcount ratio '11 PPP $3.10/day - female,percent,Demographics,Income and Poverty,Female
+MPOV08_GAP190,poverty gap '11 PPP $1.90/day - male,percent,Demographics,Income and Poverty,Male
+FPOV08_GAP190,poverty gap '11 PPP $1.90/day - female,percent,Demographics,Income and Poverty,Female
+MPOV08_GAP310,poverty gap '11 PPP $3.10/day - male,percent,Demographics,Income and Poverty,Male
+FPOV08_GAP310,poverty gap '11 PPP $3.10/day - female,percent,Demographics,Income and Poverty,Female
+MPOV08_SEV190,poverty severity '11 PPP $1.90/day - male,percent,Demographics,Income and Poverty,Male
+FPOV08_SEV190,poverty severity '11 PPP $1.90/day - female,percent,Demographics,Income and Poverty,Female
+MPOV08_SEV310,poverty severity '11 PPP $3.10/day - male,percent,Demographics,Income and Poverty,Male
+FPOV08_SEV310,poverty severity '11 PPP $3.10/day - female,percent,Demographics,Income and Poverty,Female
+MPOV08_SD190,poverty st. dev. '11 PPP $1.90/day - male,percent,Demographics,Income and Poverty,Male
+FPOV08_SD190,poverty st. dev. '11 PPP $1.90/day - female,percent,Demographics,Income and Poverty,Female
+MPOV08_SD310,poverty st. dev. '11 PPP $3.10/day - male,percent,Demographics,Income and Poverty,Male
+FPOV08_SD310,poverty st. dev. '11 PPP $3.10/day - female,percent,Demographics,Income and Poverty,Female
+MPOV08_PN190,poverty headcount '11 PPP $1.90/day - male,persons,Demographics,Income and Poverty,Male
+FPOV08_PN190,poverty headcount '11 PPP $1.90/day - female,persons,Demographics,Income and Poverty,Female
+MPOV08_PN310,poverty headcount '11 PPP $3.10/day - male,persons,Demographics,Income and Poverty,Male
+FPOV08_PN310,poverty headcount '11 PPP $3.10/day - female,persons,Demographics,Income and Poverty,Female
+MPOV08_PCEXP,monthly per capita expenditure in 2011 PPP$- male,2011 PPP$/month,Demographics,Income and Poverty,Male
+FPOV08_PCEXP,monthly per capita expenditure in 2011 PPP$- female,2011 PPP$/month,Demographics,Income and Poverty,Female
+MPOV08_FOOD,monthly food expenditure in 2011 PPP$- male,2011 PPP$/month,Demographics,Income and Poverty,Male
+FPOV08_FOOD,monthly food expenditure in 2011 PPP$- female,2011 PPP$/month,Demographics,Income and Poverty,Female
+MPOV08_NFOOD,monthly non-food expenditure in 2011 PPP$- male,2011 PPP$/month,Demographics,Income and Poverty,Male
+FPOV08_NFOOD,monthly non-food expenditure in 2011 PPP$- female,2011 PPP$/month,Demographics,Income and Poverty,Female
+MPOV08_GINI,gini coefficient - male,percent,Demographics,Income and Poverty,Male
+FPOV08_GINI,gini coefficient - female,percent,Demographics,Income and Poverty,Female
+PN08_MAL,survey year population headcount - male,persons,Demographics,Income and Poverty,Male
+PN08_FEM,survey year population headcount - female,persons,Demographics,Income and Poverty,Female
+UPOV08_PT190,poverty headcount ratio '11 PPP $1.90/day - urban,percent,Demographics,Income and Poverty,Urban
+RPOV08_PT190,poverty headcount ratio '11 PPP $1.90/day - rural,percent,Demographics,Income and Poverty,Rural
+UPOV08_PT310,poverty headcount ratio '11 PPP $3.10/day - urban,percent,Demographics,Income and Poverty,Urban
+RPOV08_PT310,poverty headcount ratio '11 PPP $3.10/day - rural,percent,Demographics,Income and Poverty,Rural
+UPOV08_GAP190,poverty gap '11 PPP $1.90/day - urban,percent,Demographics,Income and Poverty,Urban
+RPOV08_GAP190,poverty gap '11 PPP $1.90/day - rural,percent,Demographics,Income and Poverty,Rural
+UPOV08_GAP310,poverty gap '11 PPP $3.10/day - urban,percent,Demographics,Income and Poverty,Urban
+RPOV08_GAP310,poverty gap '11 PPP $3.10/day - rural,percent,Demographics,Income and Poverty,Rural
+UPOV08_SEV190,poverty severity '11 PPP $1.90/day - urban,percent,Demographics,Income and Poverty,Urban
+RPOV08_SEV190,poverty severity '11 PPP $1.90/day - rural,percent,Demographics,Income and Poverty,Rural
+UPOV08_SEV310,poverty severity '11 PPP $3.10/day - urban,percent,Demographics,Income and Poverty,Urban
+RPOV08_SEV310,poverty severity '11 PPP $3.10/day - rural,percent,Demographics,Income and Poverty,Rural
+UPOV08_SD190,poverty st. dev. '11 PPP $1.90/day - urban,percent,Demographics,Income and Poverty,Urban
+RPOV08_SD190,poverty st. dev. '11 PPP $1.90/day - rural,percent,Demographics,Income and Poverty,Rural
+UPOV08_SD310,poverty st. dev. '11 PPP $3.10/day - urban,percent,Demographics,Income and Poverty,Urban
+RPOV08_SD310,poverty st. dev. '11 PPP $3.10/day - rural,percent,Demographics,Income and Poverty,Rural
+UPOV08_PN190,poverty headcount '11 PPP $1.90/day - urban,persons,Demographics,Income and Poverty,Urban
+RPOV08_PN190,poverty headcount '11 PPP $1.90/day - rural,persons,Demographics,Income and Poverty,Rural
+UPOV08_PN310,poverty headcount '11 PPP $3.10/day - urban,persons,Demographics,Income and Poverty,Urban
+RPOV08_PN310,poverty headcount '11 PPP $3.10/day - rural,persons,Demographics,Income and Poverty,Rural
+UPOV08_PCEXP,monthly per capita expenditure in 2011 PPP$- urban,2011 PPP$/month,Demographics,Income and Poverty,Urban
+RPOV08_PCEXP,monthly per capita expenditure in 2011 PPP$- rural,2011 PPP$/month,Demographics,Income and Poverty,Rural
+UPOV08_FOOD,monthly food expenditure in 2011 PPP$- urban,2011 PPP$/month,Demographics,Income and Poverty,Urban
+RPOV08_FOOD,monthly food expenditure in 2011 PPP$- rural,2011 PPP$/month,Demographics,Income and Poverty,Rural
+UPOV08_NFOOD,monthly non-food expenditure in 2011 PPP$- urban,2011 PPP$/month,Demographics,Income and Poverty,Urban
+RPOV08_NFOOD,monthly non-food expenditure in 2011 PPP$- rural,2011 PPP$/month,Demographics,Income and Poverty,Rural
+UPOV08_GINI,gini coefficient - urban,percent,Demographics,Income and Poverty,Urban
+RPOV08_GINI,gini coefficient - rural,percent,Demographics,Income and Poverty,Rural
+PN08_URB,survey year population headcount - urban,persons,Demographics,Income and Poverty,Urban
+PN08_RUR,survey year population headcount - rural,persons,Demographics,Income and Poverty,Rural
+TPOV08_PT190,poverty headcount ratio '11 PPP $1.90/day - total,percent,Demographics,Income and Poverty,Total
+TPOV08_PT310,poverty headcount ratio '11 PPP $3.10/day - total,percent,Demographics,Income and Poverty,Total
+TPOV08_GAP190,poverty gap '11 PPP $1.90/day - total,percent,Demographics,Income and Poverty,Total
+TPOV08_GAP310,poverty gap '11 PPP $3.10/day - total,percent,Demographics,Income and Poverty,Total
+TPOV08_SEV190,poverty severity '11 PPP $1.90/day - total,percent,Demographics,Income and Poverty,Total
+TPOV08_SEV310,poverty severity '11 PPP $3.10/day - total,percent,Demographics,Income and Poverty,Total
+TPOV08_SD190,poverty st. dev. '11 PPP $1.90/day - total,percent,Demographics,Income and Poverty,Total
+TPOV08_SD310,poverty st. dev. '11 PPP $3.10/day - total,percent,Demographics,Income and Poverty,Total
+TPOV08_PN190,poverty headcount '11 PPP $1.90/day - total,persons,Demographics,Income and Poverty,Total
+TPOV08_PN310,poverty headcount '11 PPP $3.10/day - total,persons,Demographics,Income and Poverty,Total
+TPOV08_PCEXP,monthly per capita expenditure in 2011 PPP$ - total,2011 PPP$/month,Demographics,Income and Poverty,Total
+TPOV08_FOOD,monthly food expenditure in 2011 PPP$- total,2011 PPP$/month,Demographics,Income and Poverty,Total
+TPOV08_NFOOD,monthly non-food expenditure in 2011 PPP$ - total,2011 PPP$/month,Demographics,Income and Poverty,Total
+TPOV08_GINI,gini coefficient - total,percent,Demographics,Income and Poverty,Total
+PN08_TOT,survey year population headcount - total,persons,Demographics,Income and Poverty,Total
