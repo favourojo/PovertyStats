@@ -1,5 +1,5 @@
 ### Name:
-# Hailey, Mariah, Kyrie, Favour 
+# Favour 
 
 # Date: 13 December 2021
 
